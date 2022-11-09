@@ -1,0 +1,10 @@
+contentwarning,/emoji/custom/tag-contentwarning.png,contentwarning
+europe,/emoji/custom/tag-europe.png,europe
+humour,/emoji/custom/tag-humour.png,humour
+observation,/emoji/custom/tag-observation.png,observation
+political,/emoji/custom/tag-political.png,political
+sarcasm,/emoji/custom/tag-sarcasm.png,sarcasm
+sdrr,/emoji/custom/tag-sdrr.png,sdrr
+silly,/emoji/custom/tag-silly.png,silly
+technology,/emoji/custom/tag-technology.png,technology
+wit,/emoji/custom/tag-wit.png,wit
