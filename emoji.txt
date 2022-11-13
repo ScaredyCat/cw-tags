@@ -8,3 +8,9 @@ sdrr,/emoji/custom/tag-sdrr.png,sdrr
 silly,/emoji/custom/tag-silly.png,silly
 technology,/emoji/custom/tag-technology.png,technology
 wit,/emoji/custom/tag-wit.png,wit
+bbcmicro,/emoji/custom/bbcmicro.png,bbcmicro
+fediverse,/emoji/custom/fediverse.png,fediverse
+github,/emoji/custom/github.png,github
+marmite,/emoji/custom/marmite.png,marmite
+raspberrypi,/emoji/custom/raspberrypi.png,raspberrypi
+twitter,/emoji/custom/twitter.png,twitter
